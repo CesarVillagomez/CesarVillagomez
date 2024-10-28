@@ -55,10 +55,6 @@ I am a Systems Engineering student, currently in the final cycle of my degree. P
 <a href="https://www.linkedin.com/in/cesar-antonio-villagomez-yance-89613a163/" target="_blank" >
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank">
 </a>
-<a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-
 <a href= "https://www.instagram.com/cesarvillagomez2/?hl=es" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank">
 </a>
@@ -71,6 +67,11 @@ I am a Systems Engineering student, currently in the final cycle of my degree. P
 </p>
 <br>
 <br>
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=CesarVillagomez&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/CesarVillagomez)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=CesarVillagomez&theme=material-palenight)](https://github.com/CesarVillagomez)
+</div>
 
 <div align="center">
     <picture align="center">
