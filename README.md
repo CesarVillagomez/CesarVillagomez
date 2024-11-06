@@ -45,7 +45,8 @@ I am a Systems Engineering student, currently in the final cycle of my degree. P
 <h3> Operating System </h3>
 <span>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+
 
 
 </span>
