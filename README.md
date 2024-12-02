@@ -4,7 +4,7 @@
 
 ***About me***
 
-I am a Systems Engineering student, currently in the final cycle of my degree. Passionate about technology and constantly learning, I am looking for opportunities to develop professionally and apply my knowledge to solve technological challenges. I am excited to connect with like-minded professionals and contribute innovative solutions in the field of computer science and engineering.
+I am a Systems Engineering graduated. Passionate about technology and constantly learning, I am looking for opportunities to develop professionally and apply my knowledge to solve technological challenges. I am excited to connect with like-minded professionals and contribute innovative solutions in the field of computer science and engineering.
 - 🌱 I’m currently learning ...
   - Node.js
   - React
